@@ -83,5 +83,21 @@ namespace WpfApplication1
         {
             toContinue = false;
         }
+
+        private void pathTBX_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void browse_button_Click(object sender, RoutedEventArgs e)
+        {
+            Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();
+
+            Nullable<bool> result = dlg.ShowDialog();
+
+            if (result == true)       
+                pathToFile = dlg.FileName;
+
+        }
     }
 }

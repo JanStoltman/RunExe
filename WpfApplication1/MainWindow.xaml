@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="277">
     <Grid Margin="0,0,2,0">
-        <TextBox x:Name="pathTBX" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="235" BorderThickness="5" >
+        <TextBox x:Name="pathTBX" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="210" BorderThickness="5" >
             <TextBox.Effect>
                 <DropShadowEffect/>
             </TextBox.Effect>
@@ -16,8 +16,9 @@
         <Button x:Name="stop_button" Content="Stop" HorizontalAlignment="Left" Margin="169,44,0,0" VerticalAlignment="Top" Width="76" Click="stop_button_Click"/>
         <ScrollViewer x:Name="scroll_view" HorizontalAlignment="Left" Height="212" Margin="10,98,0,0" VerticalAlignment="Top" Width="247">
             <StackPanel x:Name="stack_panel">
-                
+
             </StackPanel>
         </ScrollViewer>
+        <Button x:Name="browse_button" Content="B" HorizontalAlignment="Left" Margin="225,10,0,0" VerticalAlignment="Top" Width="32" Height="34" Click="browse_button_Click"/>
     </Grid>
 </Window>
