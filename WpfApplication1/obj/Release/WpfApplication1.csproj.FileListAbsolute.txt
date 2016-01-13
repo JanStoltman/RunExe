@@ -1,0 +1,14 @@
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\bin\Release\RunExe.exe.config
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\bin\Release\RunExe.exe
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\bin\Release\RunExe.pdb
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\RunExe_MarkupCompile.cache
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\RunExe_MarkupCompile.lref
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\RunExe.g.resources
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\RunExe.exe
+C:\Users\Jan\Desktop\AdventOfCode\WpfApplication1\WpfApplication1\obj\Release\RunExe.pdb

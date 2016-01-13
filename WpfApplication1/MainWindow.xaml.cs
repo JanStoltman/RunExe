@@ -95,8 +95,11 @@ namespace WpfApplication1
 
             Nullable<bool> result = dlg.ShowDialog();
 
-            if (result == true)       
+            if (result == true)
+            {
                 pathToFile = dlg.FileName;
+                pathTBX.Text = pathToFile;
+            }
 
         }
     }
